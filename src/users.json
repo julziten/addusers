@@ -1,0 +1,28 @@
+{
+    "users": [
+        {
+            "name": "Juliana",
+            "lastname": "Rocha",
+            "email":  "rochajulianacarolina@gmail.com",
+            "age": 26
+        },
+        {
+            "name": "Diana",
+            "lastname": "Escarutti",
+            "email":  "diana.es@hotmail.com",
+            "age": 62
+        },
+        {
+            "name": "Silvia",
+            "lastname": "Rocha",
+            "email":  "srocha@accenture.com",
+            "age": 36
+        },
+        {
+            "name": "Ricardo",
+            "lastname": "Rocha",
+            "email":  "ricardolrocha@outlook.com",
+            "age": 65
+        }
+    ]
+}
