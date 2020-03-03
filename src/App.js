@@ -18,7 +18,7 @@ class App extends Component {
   }
 
   removeUser(index) {
-    if (window.confirm('Are you sure you want to delete this user?')) {
+    if (window.confirm('Are you sure tou want to delete this user?')) {
       this.setState({
         users: this.state.users.filter((e, i) => {
           return i !== index;
